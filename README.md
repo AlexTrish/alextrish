@@ -1,6 +1,12 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&size=28&pause=1000&color=F7F7F7&vCenter=true&width=500&lines=Hello+world!;Welcome+to+my+profile+%E2%9C%A8)](https://git.io/typing-svg)
 
+# 🚀 About me
 
-## Languages and Tools
+👋 Hi! My name is Alexander.
+
+I'm a Frontend developer with experience in creating adaptive and interactive interfaces. My goal is to develop user-friendly and aesthetically pleasing applications that solve real-world problems. 
+
+# 🛠️ Languages and Tools
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logocolor=000000)
 ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logocolor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logocolor=000000)
