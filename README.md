@@ -26,5 +26,6 @@
 ![Flutter](https://img.shields.io/badge/-<message>-000000?style=for-the-badge&logo=<logo>&logocolor=000000)
 ![Flutter](https://img.shields.io/badge/-<message>-000000?style=for-the-badge&logo=<logo>&logocolor=000000) -->
 
->## 📬 Contacts
-[![telegram](https://img.shields.io/badge/telegram-000000?style=for-the-badge&logo=telegram&logocolor=000000)](https://t.me/AlexTrish)
+>## ✉️ Contact me
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&logocolor=000000)](https://discord.com/users/315381368031019018)
+[![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logocolor=000000)](https://t.me/AlexTrish)
