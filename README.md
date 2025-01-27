@@ -21,6 +21,8 @@
 [![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logocolor=000000)](https://www.figma.com/)
 [![GIT](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logocolor=000000)](https://git-scm.com/)
 [![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logocolor=000000)](https://www.npmjs.com/)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTrish&layout=compact)
 <!-- ![Flutter](https://img.shields.io/badge/-<message>-000000?style=for-the-badge&logo=<logo>&logocolor=000000)
 ![Flutter](https://img.shields.io/badge/-<message>-000000?style=for-the-badge&logo=<logo>&logocolor=000000)
 ![Flutter](https://img.shields.io/badge/-<message>-000000?style=for-the-badge&logo=<logo>&logocolor=000000)
