@@ -8,7 +8,7 @@
     I'm a <b>frontend developer</b> with experience in <b>React</b>, <b>Bootstrap</b>, <b>Tailwind</b>, <b>SCSS</b> and <b>CSS</b>.
     I specialize in creating adaptive and stylish interfaces with a focus on user experience and performance. Proficient in a modern tech stack, including <b>Node.js</b> and <b>JavaScript</b>, I develop interactive and flexible web applications. I am results-driven and elevate projects to a high level of quality, following current standards and development methodologies. 
     
-    Maintaining consistent communication with clients and considering their feedback at every stage of development is essential for me to achieve the best possible outcome.
+   Maintaining consistent communication with clients and considering their feedback at every stage of development is essential for me to achieve the best possible outcome.
   </p>
 </div>
 
