@@ -21,7 +21,7 @@
 [![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logocolor=000000)](https://developer.mozilla.org/ru/docs/Web/CSS/Reference)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logocolor=000000)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logocolor=000000)](https://nodejs.org)
-[![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=Electron&logocolor=000000)](https://www.electronjs.org)
+[![Tauri](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=Tauri&logocolor=000000)](https://tauri.app/)
 [![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logocolor=000000)](https://react.dev/)
 [![SASS](https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logocolor=000000)](https://sass-lang.com/)
 [![bootstrap](https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logocolor=000000)](https://getbootstrap.com/)
