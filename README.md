@@ -10,6 +10,7 @@
     
    Maintaining consistent communication with clients and considering their feedback at every stage of development is essential for me to achieve the best possible outcome.
   </p>
+  <a href="https://alextrish-portfolio.vercel.app/">My portfolio site</a>
 </div>
 
 
